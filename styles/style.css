@@ -279,7 +279,7 @@
 	display: grid;
 	grid-template-columns: 1fr 149px 1fr;
 	align-items: center;
-	padding: 35px 50px;
+	padding: 35px 50px 88px;
 }
 
 .footer__address {
